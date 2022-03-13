@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF3841647f0AbA7d7FAA2fe0a8426251a38A10846",
+  "SCAN_LINK": "https://polygonscan.com/address/0xF3841647f0AbA7d7FAA2fe0a8426251a38A10846",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polywhips",
+  "SYMBOL": "PW",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polywhips",
+  "SHOW_BACKGROUND": true
+}
